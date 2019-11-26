@@ -8,7 +8,7 @@ Preview :- [https://competent-booth-f11af4.netlify.com/welcome.html](https://com
 
 [Click here to watch the GamePlay video](https://drive.google.com/open?id=1tEBXWqoR3QP6QlUCHsMcletZR0Sn64C5)
 
-Author:-[Satyajit Dash](https://github.com/satyajitdash61) and [Roushan Raj](https://github.com/ROUSHAN656)
+Author:-[Satyajit Dash](https://github.com/satyajitdash61)
 
 
 # About the game #
